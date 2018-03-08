@@ -5,18 +5,18 @@
   height: stretch;
 }
 
-.login-box {
-  height: 400px;
+.middle-box {
+  min-height: 400px;
   width: 500px;
   background: #ffffff;
   box-sizing: border-box;
-  padding: 50px 100px 0 100px;
+  padding: 50px 100px 50px 100px;
   margin-bottom: 100px;
   display: flex;
   flex-direction: column;
 }
 
-.login-box .login-title {
+.middle-box .middle-title {
   font-size: xx-large;
   color: #333;
   margin-bottom: 10px;
